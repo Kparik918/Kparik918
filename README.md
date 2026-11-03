@@ -10,7 +10,7 @@ Cloud engineer in the making. I like Linux, breaking things in my lab, and figur
 
 ## Repos
 
-- [AWS-CCP-](https://github.com/Kparik918/AWS-CCP-): more notes
+- [AWS-CCP-](https://github.com/Kparik918/AWS-CCP-)
 
 ## Find me
 
